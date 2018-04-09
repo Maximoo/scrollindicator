@@ -1,0 +1,30 @@
+{
+  "name": "scrollindicator",
+  "version": "1.0.0",
+  "homepage": "https://github.com/charaplessa/scrollindicator",
+  "authors": [
+    "charaplessa <charaplessa@gmail.com>"
+  ],
+  "description": "Scroll Indicator adds a bar on your page, which indicates the percentage of the page that has been scrolled.",
+  "main": "js/scrollindicator.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "scroll",
+    "bar",
+    "percentage",
+    "page"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
